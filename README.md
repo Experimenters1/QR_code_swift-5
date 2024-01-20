@@ -1,4 +1,4 @@
-![IMG_0432](https://github.com/Experimenters1/QR_code_swift-5/assets/64000769/6de520d1-a490-48e0-84d1-8f71ae359fe6)# QR_code_swift-5
+# QR_code_swift-5
 ## ZXingSwift
 ## LBXScan
 [SwiftQRCodeScanner](https://github.com/vinodiOS/SwiftQRCodeScanner?tab=readme-ov-file) <br><br>
